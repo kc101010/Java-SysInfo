@@ -1,0 +1,1 @@
+lshw -numeric -C display > gpu.txt
