@@ -30,7 +30,7 @@ As the the program is executed as a JAR file, you simply delete all related txt 
 
 If you have any issues or questions, please contact me at the following;
 
-	kcTranslationServices@gmx.com
+	kcTranslationServices<(at)>gmx.com
 
 # Authored by Project Developer - Kyle Christie (kc101010)
 
